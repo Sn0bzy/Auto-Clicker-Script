@@ -15,3 +15,7 @@ You can click buttons on websites with this code
 You should configure code like this
 
 `jQuery('.btn-small').each(function(index, value) { setTimeout(function() { jQuery(value).trigger('click'); }, index * 5000); });`
+
+## Credits
+
+Hasan CAN - https://hasan.im
